@@ -1,5 +1,27 @@
-# discord-v13-web-paneli-supervis-r
+# Discord v13 web panelli supervisör + guard
 Selamlar 5 gündür üzerinde çalıştığım tamamen kendime ait olan 1 2 özelliği şu aki *monarch* sunucusunda bulunan botu paylaşmak istiyorumulunan botu sizinle paylaşmak istiyorum güzel star gelirse açık olarak yüklerim.
+# Özellikleri
+• Kayıt sistemi.
+
+• Koruma sistemi.
+
+• Backup ve rol dağıtım sistemi.
+
+• Cezalandırma sistemi.
+
+• Buton ve menü sistemi.
+
+• Otomatik yetki sistemi.
+
+• Gelişmiş yasaklı tag sistemi.
+
+• Ses ve chat istatistik sistemi.
+
+• Davet yönetimi sistemi.
+
+• Ekonomi sistemi.
+
+• Ayrıca piyasada bulunan tüm komutların en gelişmiş halleri bulunmaktadır. Bir public sunucu için burada bulunan botlar dışında hiç bir bota ihtiyacınız yoktur.
 
 ![image](https://cdn.discordapp.com/attachments/988047889857142814/1001168115360596018/Ekran_Alnts1.PNG)
 ![image](https://cdn.discordapp.com/attachments/988047889857142814/1001168116547584090/Ekran_Alnts4.PNG)
@@ -24,6 +46,8 @@ Selamlar 5 gündür üzerinde çalıştığım tamamen kendime ait olan 1 2 öze
 ![image](https://cdn.discordapp.com/attachments/988047889857142814/1001475098504609883/Ekran_Alnts.PNG)
 ![image](https://cdn.discordapp.com/attachments/988047889857142814/1001475098840150086/Ekran_Alnts1.PNG)
 ![image](https://cdn.discordapp.com/attachments/988047889857142814/1001475099142144020/Ekran_Alnts3.PNG)
+![image](https://cdn.discordapp.com/attachments/988047889857142814/1001479445925867590/setup1.PNG)
+![image](https://cdn.discordapp.com/attachments/988047889857142814/1001479446261399602/setup2.PNG)
 
 
 
