@@ -21,6 +21,9 @@ Selamlar 5 gündür üzerinde çalıştığım tamamen kendime ait olan 1 2 öze
 ![image](https://cdn.discordapp.com/attachments/988047889857142814/1001173220508057610/Ekran_Alnts2.PNG)
 ![image](https://cdn.discordapp.com/attachments/988047889857142814/1001173220822626374/Ekran_Alnts3.PNG)
 ![image](https://cdn.discordapp.com/attachments/988047889857142814/1001173221107826688/Ekran_Alnts4.PNG)
+![image](https://cdn.discordapp.com/attachments/988047889857142814/1001475098504609883/Ekran_Alnts.PNG)
+![image](https://cdn.discordapp.com/attachments/988047889857142814/1001475098840150086/Ekran_Alnts1.PNG)
+![image](https://cdn.discordapp.com/attachments/988047889857142814/1001475099142144020/Ekran_Alnts3.PNG)
 
 
 
