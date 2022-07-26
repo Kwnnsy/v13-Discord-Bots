@@ -1,5 +1,5 @@
 # Discord v13 web panelli supervisör + guard
-Selamlar 5 gündür üzerinde çalıştığım tamamen kendime ait olan 1 2 özelliği şu aki *monarch* sunucusunda bulunan botu paylaşmak istiyorumulunan botu sizinle paylaşmak istiyorum güzel star gelirse açık olarak yüklerim.
+Selamlar 5 gündür üzerinde çalıştığım tamamen kendime ait olan 1 2 özelliği şu anki *monarch* sunucusunda bulunan botu paylaşmak istiyorumulunan botu sizinle paylaşmak istiyorum güzel star gelirse açık olarak yüklerim.
 # Özellikleri
 • Kayıt sistemi.
 
