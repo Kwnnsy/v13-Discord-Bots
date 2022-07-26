@@ -1,9 +1,8 @@
 # Discord v13 web panelli supervisör + guard
 Selamlar 5 gündür üzerinde çalıştığım tamamen kendime ait olan 1 2 özelliği şu anki *monarch* sunucusunda bulunan botu paylaşmak istiyorumulunan botu sizinle paylaşmak istiyorum güzel star gelirse açık olarak yüklerim.
 # Özellikleri
-• Kayıt sistemi.
 
-• Koruma sistemi.
+• Kayıt sistemi.
 
 • Backup ve rol dağıtım sistemi.
 
@@ -23,6 +22,23 @@ Selamlar 5 gündür üzerinde çalıştığım tamamen kendime ait olan 1 2 öze
 
 • Ayrıca piyasada bulunan tüm komutların en gelişmiş halleri bulunmaktadır. Bir public sunucu için burada bulunan botlar dışında hiç bir bota ihtiyacınız yoktur.
 
+# GUARD ÖZELLİKLERİ
+
+• Rol Oluşturma Koruma
+• Rol Silme Koruma
+• Rol Güncelleme Koruma
+• Kanal Oluşturma Koruma
+• Kanal Silme Koruma
+• Kanal Güncelleme Koruma
+• Sunucu Güncelleme Koruma
+• Üye Güncellenme Koruma
+• Ban Koruma
+• Kick Koruma
+• Ban Açma Koruma
+• Bot Koruma
+• Bot Üstü Taç Hesapla Banlama
+• Url Koruma (saniyelik)
+• Güvenli Fonksiyonu
 ![image](https://cdn.discordapp.com/attachments/988047889857142814/1001168115360596018/Ekran_Alnts1.PNG)
 ![image](https://cdn.discordapp.com/attachments/988047889857142814/1001168116547584090/Ekran_Alnts4.PNG)
 ![image](https://cdn.discordapp.com/attachments/988047889857142814/1001168116182691880/Ekran_Alnts3.PNG)
